@@ -42,7 +42,7 @@ body {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 480px) {
   body {
     background-image: url('kuromi1.png'); /* Imagen para móviles */
   }
